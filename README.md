@@ -3,7 +3,8 @@
 ## About
 
 Demo app for displaying information about Android device.
-contact for work, mail: chunhthanhde.dev@gmail.com
+
+###### contact for work, mail: chunhthanhde.dev@gmail.com
 
 __Available information about device__
 
