@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main -->
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FFC107</color>
+
+    <!-- Launcher -->
+    <color name="colorLauncherBackground">#FFC107</color>
+
+    <!-- Text -->
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#757575</color>
+
+    <!-- UI -->
+    <color name="colorTabsLineBackground">#80BDBDBD</color>
+</resources>
