@@ -3,6 +3,7 @@
 ## About
 
 Demo app for displaying information about Android device.
+contact for work, mail: chunhthanhde.dev@gmail.com
 
 __Available information about device__
 
@@ -32,3 +33,5 @@ __Available information about device__
 
 * [@fartem](https://github.com/fartem) as Artem Fomchenkov
 * [@artem385](https://github.com/artem385) as Artem Fomchenkov
+
+###### original path: https://github.com/fartem/android-device-info
