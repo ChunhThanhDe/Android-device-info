@@ -1,12 +1,5 @@
 <img src="media/logo/ic_app.png" height="100px" />
 
-# Android Device Info
-
-[![GitHubActions](https://github.com/fartem/android-device-info/workflows/Build/badge.svg)](https://github.com/fartem/android-device-info/actions?query=workflow%3ABuild)
-[![Codebeat](https://codebeat.co/badges/6abea524-2c73-4dae-9b49-4dc69438480a)](https://codebeat.co/projects/github-com-fartem-android-device-info-master)
-[![Codecov](https://codecov.io/gh/fartem/android-device-info/branch/master/graph/badge.svg)](https://codecov.io/gh/fartem/android-device-info)
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Android%20Device%20Info-brightgreen.svg?style=flat)](https://android-arsenal.com/details/3/7904)
-
 ## About
 
 Demo app for displaying information about Android device.
@@ -34,19 +27,8 @@ __Available information about device__
   <img src="media/screenshots/screenshot_05.png" width="150" />
 </p>
 
-## How to contribute
 
-Read [Commit Convention](https://github.com/fartem/repository-rules/blob/master/commit-convention/COMMIT_CONVENTION.md). Make sure your build is green before you contribute your pull request. Prepare any API 22 emulator. Then:
-
-```shell
-$ ./gradlew clean
-$ ./gradlew build
-$ ./gradlew -Pandroid.testInstrumentationRunnerArguments.class=com.smlnskgmail.jaman.deviceinfo.info.travisci.Api22TestSuite connectedCheck
-```
-
-If you don't see any error messages, submit your pull request.
-
-## Contributors
+## This application uses open source code contributed by:
 
 * [@fartem](https://github.com/fartem) as Artem Fomchenkov
 * [@artem385](https://github.com/artem385) as Artem Fomchenkov
